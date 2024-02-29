@@ -21,7 +21,7 @@ int main(){
     int difficulty;
     bool playGame = true;
 
-    ifstream fin("e:hangman.txt");
+    ifstream fin("filepath"); // !!!!!UPDATE THE FILEPATH!!!!
     int totalWords = getTotalWords(fin);
     fin.close();
 
