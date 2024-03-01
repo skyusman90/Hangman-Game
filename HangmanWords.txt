@@ -1,0 +1,9 @@
+cat
+laptop
+university
+mobile
+phone
+game
+bottle
+water
+racecar
